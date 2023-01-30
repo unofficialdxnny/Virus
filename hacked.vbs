@@ -1,0 +1,1 @@
+Type X=Msgbox("You Have Been Hacked",0+16,"Computer Hijacked")
